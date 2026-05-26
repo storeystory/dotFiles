@@ -84,11 +84,6 @@ export let eggs = #{
         enabled: true,
         templates: []
     },
-    vesktop: #{
-        targets: "~/.config/vesktop",
-        enabled: true,
-        templates: []
-    },
     calibre: #{
         targets: "~/.config/calibre",
         enabled: true,
