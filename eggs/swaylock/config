@@ -1,0 +1,49 @@
+ignore-empty-password
+show-failed-attempts
+daemonize
+indicator
+indicator-idle-visible
+indicator-radius=100
+indicator-thickness=10
+clock
+timestr=%H:%M
+datestr=%A, %B %d
+
+# Background
+color=141216CC
+
+# Ring
+ring-color=AC82E9
+ring-clear-color=d8cab8
+ring-caps-lock-color=fcb167
+ring-wrong-color=fc4649
+ring-ver-color=AC82E9
+
+# Inside - give it a visible color
+inside-color=141216DD
+inside-clear-color=141216DD
+inside-caps-lock-color=141216DD
+inside-wrong-color=fc464940
+inside-ver-color=AC82E940
+
+# Text
+text-color=d8cab8
+text-clear-color=d8cab8
+text-wrong-color=fc4649
+text-ver-color=AC82E9
+text-caps-lock-color=fcb167
+
+# Lines
+line-color=00000000
+line-clear-color=00000000
+line-wrong-color=00000000
+line-ver-color=00000000
+separator-color=00000000
+
+# Highlights
+key-hl-color=AC82E9
+bs-hl-color=fc4649
+
+# Font
+font=Maple Mono NF
+font-size=18
