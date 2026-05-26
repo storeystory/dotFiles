@@ -1,0 +1,6 @@
+# ── API Keys ──────────────────────────────────────────────────────────
+export NASA_API_KEY="your key here"
+export OPENWEATHER_API_KEY="your key here"
+export OPENWEATHER_CITY_LAT=""
+export OPENWEATHER_CITY_LON=""
+export GITHUB_TOKEN="your key here (gists perms)"
