@@ -1,0 +1,8 @@
+[output]
+method = raw
+raw_target = /dev/stdout
+data_format = ascii
+ascii_max_range = 20
+bar_width = 1
+bar_spacing = 0
+bars = 20

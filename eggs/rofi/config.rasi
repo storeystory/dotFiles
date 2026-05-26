@@ -1,0 +1,10 @@
+configuration {
+    show-icons:     true;
+    icon-theme:     "Papirus-Purple";
+    font:           "Maple Mono NF 12";
+    drun {
+        display-name:   "Apps";
+    }
+}
+
+@theme "/home/storey/.config/rofi/theme.rasi"

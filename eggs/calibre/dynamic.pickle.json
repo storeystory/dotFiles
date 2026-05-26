@@ -1,0 +1,32 @@
+{
+  "choose library location": "/mnt/STRG/Calibre Libraries/TTRPGs",
+  "database location dialog": "/mnt/STRG/Calibre Libraries/Complete Series and One Shots",
+  "export-calibre-palette": "/home/storey/Downloads/mycolors.calibre-palette",
+  "import-calibre-palette": "/home/storey/Customization",
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "9.8"
+    ]
+  },
+  "sort_history": [
+    [
+      "title",
+      true
+    ],
+    [
+      "authors",
+      true
+    ],
+    [
+      "title",
+      true
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "kindle",
+  "welcome_wizard_was_run": true
+}

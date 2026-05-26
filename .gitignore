@@ -1,0 +1,8 @@
+/.git
+/.deployed_cache
+/.yolk_git
+eggs/bash/secrets.sh
+*.secret
+*.key
+*secrets*
+*token*

@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: tejkx-mgtyz
+created: 2026-05-20T21:15:12-04:00
